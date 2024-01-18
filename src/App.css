@@ -1,0 +1,10 @@
+
+.NavBarDiv{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-direction: row;
+  column-gap: 3rem;
+font-size: 2rem;
+}
+
